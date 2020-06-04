@@ -60,56 +60,99 @@
     - 3.11 Print Technologies
 
   Section 4: Virtualization and Cloud Computing
+
     - 4.1 Cloud Computing
+
     - 4.2 Client-side Virtulization
 
   Section 5: Hardware and Network Troubleshooting
+
     - 5.1 Troubleshooting
+
     - 5.2 Troubleshooting Computer Hardware
+
     - 5.3 Troubleshooting Storage
+
     - 5.4 Troubleshooting Displays
+
     - 5.5 Troubleshooting Mobile Devices
+
     - 5.6 Troubleshooting Printers
+
     - 5.7 Troubleshooting Networks
 
 COMPTIA 220-1002
+
   Section 1: Operating Systems
+
     - 1.1 Operating Systems
+
     - 1.2 Microsoft Windows
+
     - 1.3 Installing Operating Systems
+
     - 1.4 The Windows Command Line
+
     - 1.5 Windows Features
+
     - 1.6 Windows Control Panel
+
     - 1.7 Installation Concepts
+
     - 1.8 Windows Networking
+
     - 1.9 macOS and Linux
   
   Section 2: Security
+
     - 2.1 Physical Security
+
     - 2.2 Logical Security
+
     - 2.3 Wireless Security
+
     - 2.4 Malware
+
     - 2.5 Security Threats
+
     - 2.6 Windows Security
+
     - 2.7 Workstation Security
+
     - 2.8 Mobile Device Security
+
     - 2.9 Data Destruction and Disposal
+
     - 2.10 SOHO Network Security
   
   Section 3: Software Troubleshooting
+
     - 3.1 Troublehooting Windows
+
     - 3.2 Troubleshooting Security Issues
+
     - 3.3 Malware Removal
+
     - 3.4 Troubleshooting Mobile Applications
+
     - 3.5 Troubleshooting Mobile Device Security
   
   Section 4: Operational Procedures
+
     - 4.1 Documentation
+
     - 4.2 Change Management
+
     - 4.3 Disaster Recovery
+
     - 4.4 Safety Procedures
+
     - 4.5 Environmental Impacts
+
     - 4.6 Privacy, Licensing, and Policies
+
     - 4.7 Communication and Professionalism
+
     - 4.8 Scripting
+
     - 4.9 Remote Access
