@@ -81,7 +81,7 @@
 
     - 5.7 Troubleshooting Networks
 
-COMPTIA 220-1002
+# COMPTIA 220-1002
 
   Section 1: Operating Systems
 
