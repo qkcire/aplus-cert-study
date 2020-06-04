@@ -1,4 +1,4 @@
-COMPTIA 220-1001
+# COMPTIA 220-1001
   https://www.professormesser.com/free-a-plus-training/220-1001/220-1000-training-course/
   Section 1: Mobile Devices
     - 1.1 Laptop Hardware
