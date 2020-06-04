@@ -1,7 +1,7 @@
 # COMPTIA 220-1001
   https://www.professormesser.com/free-a-plus-training/220-1001/220-1000-training-course/
   
-  Section 1: Mobile Devices
+  ### Section 1: Mobile Devices
     
     - 1.1 Laptop Hardware
     
@@ -17,7 +17,7 @@
     
     - 1.7 Mobile Device Synchronization
 
-  Section 2: Networking
+  ### Section 2: Networking
 
     - 2.1 Ports and Protocols
 
@@ -35,7 +35,7 @@
 
     - 2.8 Network Tools
 
-  Section 3: Hardware
+  ### Section 3: Hardware
 
     - 3.1 Cables and Adapters
 
@@ -59,13 +59,13 @@
 
     - 3.11 Print Technologies
 
-  Section 4: Virtualization and Cloud Computing
+  ### Section 4: Virtualization and Cloud Computing
 
     - 4.1 Cloud Computing
 
     - 4.2 Client-side Virtulization
 
-  Section 5: Hardware and Network Troubleshooting
+  ### Section 5: Hardware and Network Troubleshooting
 
     - 5.1 Troubleshooting
 
@@ -83,7 +83,7 @@
 
 # COMPTIA 220-1002
 
-  Section 1: Operating Systems
+  ### Section 1: Operating Systems
 
     - 1.1 Operating Systems
 
@@ -103,7 +103,7 @@
 
     - 1.9 macOS and Linux
   
-  Section 2: Security
+  ### Section 2: Security
 
     - 2.1 Physical Security
 
@@ -125,7 +125,7 @@
 
     - 2.10 SOHO Network Security
   
-  Section 3: Software Troubleshooting
+  ### Section 3: Software Troubleshooting
 
     - 3.1 Troublehooting Windows
 
@@ -137,7 +137,7 @@
 
     - 3.5 Troubleshooting Mobile Device Security
   
-  Section 4: Operational Procedures
+  ### Section 4: Operational Procedures
 
     - 4.1 Documentation
 
