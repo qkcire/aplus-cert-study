@@ -36,16 +36,27 @@
     - 2.8 Network Tools
 
   Section 3: Hardware
+
     - 3.1 Cables and Adapters
+
     - 3.2 Connectors
+
     - 3.3 Memory
+
     - 3.4 Storage
+
     - 3.5 Motherboards, CPUs, and Add-on Cards
+
     - 3.6 Peripherals
+
     - 3.7 Power
+
     - 3.8 Custom PCs
+
     - 3.9 Common Devices
+
     - 3.10 SOHO Multifunction Devices
+
     - 3.11 Print Technologies
 
   Section 4: Virtualization and Cloud Computing
