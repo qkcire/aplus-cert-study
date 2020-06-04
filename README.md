@@ -18,13 +18,21 @@
     - 1.7 Mobile Device Synchronization
 
   Section 2: Networking
+
     - 2.1 Ports and Protocols
+
     - 2.2 Network Devices
+
     - 2.3 SOHO Networks
+
     - 2.4 Wireless Networks
+
     - 2.5 Networks Services
+
     - 2.6 Network Configurations
+
     - 2.7 Internet Connections
+
     - 2.8 Network Tools
 
   Section 3: Hardware
