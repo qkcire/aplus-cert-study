@@ -156,3 +156,13 @@
     - 4.8 Scripting
 
     - 4.9 Remote Access
+
+## List of Resources
+- [How did you study for the A+ Cert](https://old.reddit.com/r/CompTIA/comments/bd3zp8/how_did_you_study_for_the_a_cert/)
+- [A+ certified. The Gold Duide to Passing and Retaining the A+ skills inside.](https://old.reddit.com/r/CompTIA/comments/8gedll/a_certified_the_gold_guide_to_passing_and/)
+- [examxompass CompTIA Practice Exams](https://www.examcompass.com/)
+- [crucial exams CompTIA A+ 220-100x Study Materials](https://crucialexams.com/exams/comptia/a/220-1001/)
+- [Easy way to Pass CompTIA A+ 220-1001 and 220-1002 -March 2020](https://www.youtube.com/watch?v=mZpsQ8JWqJc)
+  - system can generate < 90 questions
+  - first set of questions are simulations in an office environment
+  - matching, drag-and-drop
