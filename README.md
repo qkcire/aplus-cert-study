@@ -1,12 +1,20 @@
 # COMPTIA 220-1001
   https://www.professormesser.com/free-a-plus-training/220-1001/220-1000-training-course/
+  
   Section 1: Mobile Devices
+    
     - 1.1 Laptop Hardware
+    
     - 1.2 Laptop Displays
+    
     - 1.3 Laptop Features
+    
     - 1.4 Mobile Devices
+    
     - 1.5 Movile Device Accessories
+    
     - 1.6 Mobile Device Connectivity
+    
     - 1.7 Mobile Device Synchronization
 
   Section 2: Networking
