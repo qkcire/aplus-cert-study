@@ -3,23 +3,23 @@
   
   ### Section 1: Mobile Devices
     
-    - 1.1 Laptop Hardware
+    - [X] 1.1 Laptop Hardware
     
-    - 1.2 Laptop Displays
+    - [X] 1.2 Laptop Displays
     
-    - 1.3 Laptop Features
+    - [X] 1.3 Laptop Features
     
-    - 1.4 Mobile Devices
+    - [X] 1.4 Mobile Devices
     
-    - 1.5 Movile Device Accessories
+    - [X] 1.5 Movile Device Accessories
     
-    - 1.6 Mobile Device Connectivity
+    - [X] 1.6 Mobile Device Connectivity
     
     - 1.7 Mobile Device Synchronization
 
   ### Section 2: Networking
 
-    - 2.1 Ports and Protocols
+    - [ ] 2.1 Ports and Protocols
 
     - 2.2 Network Devices
 
