@@ -2,15 +2,15 @@ CH 01: Safety and Professionalism
 
     * The Professional Tech
 
-        - Appearence
+        + Appearence
 
-        - The Traits of a Tech
+        + The Traits of a Tech
 
-            Honesty/Integrity
+          - Honesty/Integrity
 
-            Dependability/Responsibility
+          - Dependability/Responsibility
 
-            Sensitivity
+          - Sensitivity
 
     * Effective Communication
 
