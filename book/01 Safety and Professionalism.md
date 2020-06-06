@@ -14,46 +14,46 @@ CH 01: Safety and Professionalism
 
     * Effective Communication
 
-        - Assertive Communication
+        + Assertive Communication
 
-        - Respectful Communication
+        + Respectful Communication
 
-        - Getting Answers
+        + Getting Answers
 
-        - Expectations and Follow-up
+        + Expectations and Follow-up
 
-          Timeline
+          - Timeline
 
-          Options
+          - Options
 
-          Documentation
+          - Documentation
 
-          Follow-up
+          - Follow-up
 
     * Be Prepared!
 
-        - Electrostatic Discharge (ESD)
+        + Electrostatic Discharge (ESD)
 
-        - Antistatic Tools
+        + Antistatic Tools
 
-        - Electromagnetic Interference (EMI)
+        + Electromagnetic Interference (EMI)
 
-        - Radio Frequencey Interference (RFI)
+        + Radio Frequencey Interference (RFI)
 
-        - Physical Tools
+        + Physical Tools
 
-        - Personal Safety
+        + Personal Safety
 
-        - Troubleshooting Methodology
+        + Troubleshooting Methodology
 
-          Identify the Problem
+          - Identify the Problem
 
-          Establish a Theory of Probable Cause (Question the Obvious)
+          - Establish a Theory of Probable Cause (Question the Obvious)
 
-          Test the Theory to Determine Cause
+          - Test the Theory to Determine Cause
 
-          Establish a Plan of Action
+          - Establish a Plan of Action
 
-          Verify and Prevent
+          - Verify and Prevent
 
-          Document Findings, Actions, and Outcomes
+          - Document Findings, Actions, and Outcomes
