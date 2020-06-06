@@ -6,11 +6,11 @@ CH 01: Safety and Professionalism
 
         - The Traits of a Tech
 
-          Honesty/Integrity
+            Honesty/Integrity
 
-          Dependability/Responsibility
+            Dependability/Responsibility
 
-          Sensitivity
+            Sensitivity
 
     * Effective Communication
 
